@@ -1,0 +1,9 @@
+py manage.py migrate
+
+py manage.py makemigrations
+
+py manage.py runserver   
+
+pip install psycopg2   
+
+pip install django-environ   
